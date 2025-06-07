@@ -1,4 +1,4 @@
-# _Sample project_
+# _Sample project:_ For Lilygo T-Display-S3
 
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
